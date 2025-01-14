@@ -1,0 +1,13 @@
+/* styles.css */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+/* Custom styles for buttons and cards */
+button {
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #f7a600; /* A golden shade */
+}
